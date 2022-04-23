@@ -35,7 +35,7 @@ const Container = styled.div`
   justify-content: center;
   padding: 25px;
   width: 40%;
-  height: 40%;
+  height: 340px;
   @media (max-width: 450px) {
     width: 70%;
     height: 46%;

@@ -74,8 +74,7 @@ const Container = styled.div`
   align-items: flex-start;
   flex-direction: column;
   padding: 25px;
-  width: 40%;
-  height: 46%;
+  height: 340px;
 
   @media (max-width: 450px) {
     width: 70%;
@@ -126,7 +125,7 @@ const NumberContainer = styled.div`
   }
 `;
 
-const Num = styled.div`
+const Num = styled.p`
   opacity: 0.7;
 `;
 
