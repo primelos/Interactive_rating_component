@@ -4,7 +4,7 @@
 
 ### Screenshot
 
-![Rating](./images/rating.png)
+![Rating](https://github.com/primelos/Interactive_rating_component/blob/main/public/images/rating.png)
 ![Thank you](./images/thankyou.png)
 
 ### Links
