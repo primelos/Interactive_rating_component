@@ -80,10 +80,7 @@ const Button = styled.button`
   height: 76%;
   width: 51%;
   color: #ef7613;
-  :hover {
-    background-color: whitesmoke;
-    color: #ef7613;
-  }
+
   @media (max-width: 450px) {
     width: 61%;
   }
